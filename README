@@ -16,8 +16,9 @@ My directory structure is
 │   ├── config.light
 │   └── theme_control.sh
 └── .i3blocks
-    ├── .i3blocks.conf.dark
-    ├── .i3blocks.conf.dark
+│   ├── .i3blocks.conf.dark
+│   └── .i3blocks.conf.dark
+└───.i3blocks.cons    
 
 
 
