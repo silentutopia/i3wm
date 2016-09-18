@@ -1,2 +1,17 @@
 This space in the internet holds my i3wm and i3blocks dotfiles
 Also has my somehow working scripts for i3wm
+
+The theme changing script 'theme_control.sh' is located in /i3 directory
+The script overwrites the original 
+1]  i3 config
+2]  i3blocks.conf
+3]wallpaper
+with dark or light config files and wallpapers as specified
+
+My directory structure is
+
+
+
+Known bug- Borders of existing windows may disappear when theme is changed (this also happens when i3 is reloaded)
+          I don't use titlebars and hence haven't encountered this problem
+          
