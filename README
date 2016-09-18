@@ -5,7 +5,7 @@ The theme changing script 'theme_control.sh' is located in /i3 directory
 The script overwrites the original 
 1]  i3 config
 2]  i3blocks.conf
-3]wallpaper
+3]  wallpaper
 with dark or light config files and wallpapers as specified
 
 the script refreshes the i3window manager, and the wallpaper is updated by 'feh' command the last line in the i3 'config' file
