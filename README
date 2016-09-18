@@ -8,8 +8,12 @@ The script overwrites the original
 3]wallpaper
 with dark or light config files and wallpapers as specified
 
+the script refreshes the i3window manager, and the wallpaper is updated by 'feh' command the last line in the i3 'config' file
+
+
 My directory structure is
-.
+
+home
 ├── i3
 │   ├── config
 │   ├── config.dark
@@ -18,7 +22,11 @@ My directory structure is
 └── .i3blocks
 │   ├── .i3blocks.conf.dark
 │   └── .i3blocks.conf.dark
-└───.i3blocks.cons    
+├───.i3blocks.cons
+└───nzcustom├
+    ├── wallpaper.jpeg
+    ├── wallpaper_dark.jpeg
+    └── wallpaper_light.jpeg
 
 
 
