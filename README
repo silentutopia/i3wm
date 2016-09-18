@@ -9,6 +9,23 @@ The script overwrites the original
 with dark or light config files and wallpapers as specified
 
 My directory structure is
+.
+├── i3
+│   ├── config
+│   ├── config.dark
+│   ├── config.light
+│   └── theme_control.sh
+└── .i3blocks
+    ├── .i3blocks.conf.dark
+    ├── .i3blocks.conf.dark
+
+
+
+
+
+
+
+
 
 
 
